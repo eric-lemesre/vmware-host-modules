@@ -18,9 +18,6 @@ This repository aggregates work from several community contributors to support v
 *   **Version 17.6.4**: Based on the work by [aurelihein](https://github.com/aurelihein/vmware-host-modules)
 *   **Installation Script**: The `pack_and_install.sh` script is derived from [64kramsystem](https://github.com/64kramsystem/vmware-host-modules).
 
-### Original Documentation
-The original documentation text has been moved to `REDME.orig.md`.
-
 ### Installation
 To build and install the modules:
 
